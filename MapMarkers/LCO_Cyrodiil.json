@@ -1,0 +1,9 @@
+{
+	"mapMarkers": [{
+		"refID": "LCO_Cyrodiil.esp|85F", // Cracked Horn Camp
+		"icon": 97
+	}, {
+		"refID": "LCO_Cyrodiil.esp|860", // Cracked Horn Gate
+		"icon": 86
+	}]
+}
