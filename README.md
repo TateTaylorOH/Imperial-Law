@@ -15,7 +15,7 @@ County Bruma sits in the far north of Cyrodiil, bordering Skyrim to the south. T
 ![](https://raw.githubusercontent.com/TateTaylorUSA/TateTaylorUSA/main/assets/images/lco-cyrodiil/CrackedHornCamp.png)\
 [![](https://raw.githubusercontent.com/TateTaylorUSA/TateTaylorUSA/main/assets/images/lco-cyrodiil/Bruma.png)](https://en.uesp.net/wiki/Lore:Bruma)
 
-Cracked Horn Camp is a old Reman Empire ruin that is occupied by a camp of minotaurs. The ruin sits just north of Lakeside Retreat on a path from County Bruma into County Cheydinhal. Capturing this gate would help Bruma to defend its southern border.
+Cracked Horn Camp is a old Reman Empire ruin that is occupied by a camp of minotaurs. The ruin sits just north of Lakeside Retreat on a path from County Bruma into County Cheydinhal. Capturing this gate would help Bruma defend its southern border.
 
 [Lakeside Retreat](https://en.uesp.net/wiki/Beyond_Skyrim:Cyrodiil/Lakeside_Retreat)
 
