@@ -10,7 +10,7 @@ I am sad there are not more modules to expand Lawbringer's system to other part 
 
 County Bruma sits in the far north of Cyrodiil, bordering Skyrim to the south. This region is a melting pot of Imperial and Nordic ideals, the architecture in the city proper is reminiscant of both culture's stylings. The outbreak of the Skyrim Civil War has had an impact on the county, the occsional bit of violence spills south and the strife caused by the conflict has lead to an increase of bandit activity across the region. The county governance has done its best to protect its citizens and ensure that Imperial Law is upheld.
 
-Cracked Horn Camp
+[Cracked Horn Camp](https://bsmap.uesp.net/beyondmap.html?world=1&x=125718&y=173072&zoom=17)
 
 ![](https://raw.githubusercontent.com/TateTaylorUSA/TateTaylorUSA/main/assets/images/lco-cyrodiil/CrackedHornCamp.png)\
 [![](https://raw.githubusercontent.com/TateTaylorUSA/TateTaylorUSA/main/assets/images/lco-cyrodiil/Bruma.png)](https://en.uesp.net/wiki/Lore:Bruma)
