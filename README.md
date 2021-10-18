@@ -1,6 +1,8 @@
+![](https://raw.githubusercontent.com/TateTaylorUSA/TateTaylorUSA/main/assets/images/banners/County%20Claimer.png)
+
 [Lawbringer ](https://www.nexusmods.com/skyrimspecialedition/mods/29882)﻿is a great mod that I have recently fallen in love with. It allows you to claim locations around Skyrim for a faction of your choice, ensuring that it will only respawn in the future with friendly NPCs. It is really enjoyable to claim locations and see a tangible impact on the world around you. Places like Valtheim Keep and Pine Watch Bridge are fun locations because they are bandit camps stationed on the roadway, so claiming feels very impactful.
 
-I am sad there are not more modules to expand Lawbringer's system to other part of Skyrim or other modded locations. So I decided I would make one myself. This mod will bring Lawbringer functionality to three locations in Beyond Skyrim: Cyrodiil!
+I am sad there are not more modules to expand Lawbringer's system to other part of Skyrim or other modded locations. So I decided I would make one myself. This mod will bring Lawbringer functionality to four locations in Beyond Skyrim: Cyrodiil!
 
 ![](https://raw.githubusercontent.com/PierreDespereaux/PierreDespereaux/master/assets/images/banners/Features.png)
 
