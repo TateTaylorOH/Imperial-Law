@@ -1,9 +1,10 @@
 {
+// [Countyclaimer - Lawbringer for Cyrodiil](https://www.nexusmods.com/skyrimspecialedition/mods/57099)
 	"mapMarkers": [{
-		"refID": "LCO_Cyrodiil.esp|85F", // Cracked Horn Camp
-		"icon": 97
-	}, {
 		"refID": "LCO_Cyrodiil.esp|860", // Cracked Horn Gate
 		"icon": 86
+	}, {
+		"refID": "LCO_Cyrodiil.esp|85F", // Cracked Horn Camp
+		"icon": 97
 	}]
 }
